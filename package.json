@@ -1,0 +1,16 @@
+{
+  "name": "weather_gecko",
+  "version": "1.0.0",
+  "description": "An application to use content from APIs in order to display insights on crypto and local weather.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "coingecko-api": "^1.0.10",
+    "dotenv": "^16.0.1",
+    "superagent": "^7.1.6"
+  }
+}
